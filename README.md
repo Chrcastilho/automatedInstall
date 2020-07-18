@@ -3,6 +3,8 @@ A powershell script for installing and preparing your computer, after formatting
 
 This script installs several programs, updates some Windows settings and will automatically enable some features (OS).
 
+To use this script, press the right button and click "Run with PowerShell"
+
 Some references to complement:
 
 Get-WindowsOptionalFeature
